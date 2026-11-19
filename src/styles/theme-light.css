@@ -1,0 +1,30 @@
+:root,
+:root[data-theme='light'] {
+  color-scheme: light;
+
+  --color-background: #f7f6f2;
+  --color-surface: #ffffff;
+  --color-surface-secondary: #efeee9;
+  --color-surface-hover: #e8e7e1;
+  --color-surface-elevated: #ffffff;
+
+  --color-text-primary: #252a29;
+  --color-text-secondary: #747a76;
+  --color-text-tertiary: #929791;
+
+  --color-border: #e3e1da;
+  --color-border-strong: #c9c6bd;
+
+  --color-error: #c65d56;
+  --color-error-surface: #f9eae8;
+
+  --color-success-surface: #e8f2eb;
+  --color-warning-surface: #f8f0e2;
+  --color-info-surface: #eaf1f6;
+
+  --shadow-sm: 0 1px 2px rgb(37 42 41 / 5%);
+  --shadow-md: 0 4px 12px rgb(37 42 41 / 8%);
+  --shadow-lg: 0 12px 32px rgb(37 42 41 / 12%);
+
+  --focus-ring: 0 0 0 3px rgb(54 124 120 / 25%);
+}
