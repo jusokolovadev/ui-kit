@@ -7,6 +7,7 @@ export * from './Card';
 export * from './Checkbox';
 export * from './DropdownMenu';
 export * from './Heading';
+export * from './Icon';
 export * from './IconButton';
 export * from './Input';
 export * from './Modal';
